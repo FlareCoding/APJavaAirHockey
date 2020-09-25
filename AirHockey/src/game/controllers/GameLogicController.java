@@ -74,7 +74,6 @@ public class GameLogicController {
 			}
 			
 			extraPlayerPuckSanitationFromNetworkDisturbance(p2Puck, true);
-			System.out.println(p2Puck.getPosition());
 		}
 	}
 	
